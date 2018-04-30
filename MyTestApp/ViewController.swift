@@ -21,16 +21,20 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    func one() -> Int{
+    func one() -> Int {
         return 1
     }
     
-    func two() -> Int{
+    func two() -> Int {
         return 2
     }
     
-    func three() -> Int{
+    func three() -> Int {
         return 3
+    }
+    
+    func four() -> Int {
+        return 4
     }
 }
 
