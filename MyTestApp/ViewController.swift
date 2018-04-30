@@ -24,5 +24,9 @@ class ViewController: UIViewController {
     func two() -> Int{
         return 2
     }
+    
+    func three() -> Int{
+        return 3
+    }
 }
 
